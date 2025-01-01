@@ -13,7 +13,7 @@ console.log(newArr2);
 
 const obj = {
   name: "Tom",
-  age: 22,
+  age: 23,
 };
 const newObj = { ...obj };
 newObj.name = "John"
