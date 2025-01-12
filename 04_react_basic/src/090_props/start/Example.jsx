@@ -4,8 +4,8 @@ const Example = () => {
   return (
     <>
       <Child color="" />
-      <Child color="red" />
-      <Child />
+      {/* <Child color="red" />
+      <Child /> */}
     </>
     
   );
